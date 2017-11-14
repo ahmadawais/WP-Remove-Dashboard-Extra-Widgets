@@ -18,6 +18,10 @@ Upload the  plugin to your blog and just activate it.
 
 == Changelog ==
 
+= 2.0.0 =
+NEW: Better unset function
+IMPROVE: Code quality and documentation
+
 = 1.1 =
 Several minor updates
 
