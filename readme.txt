@@ -4,8 +4,8 @@ Contributors: mrahmadawais, maedahbatool, wptie
 Donate link: https://AhmadAwais.com/contact
 Tags: remove, admin, dashboard, widgets
 Requires at least: 3.0
-Tested up to: 5.0
-Stable tag: 2.0
+Tested up to: 5.4.0
+Stable tag: 2.1.0
 License: GPLv2 or later
 
 
